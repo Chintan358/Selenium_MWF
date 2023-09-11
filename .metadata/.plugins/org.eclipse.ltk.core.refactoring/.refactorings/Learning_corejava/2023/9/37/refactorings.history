@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;statements.Scanner&apos; to &apos;ScannerDemo&apos;&#x0D;&#x0A;- Original project: &apos;Learning_corejava&apos;&#x0D;&#x0A;- Original element: &apos;statements.Scanner&apos;&#x0D;&#x0A;- Renamed element: &apos;statements.ScannerDemo&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Scanner&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;statements{Scanner.java[Scanner" matchStrategy="1" name="ScannerDemo" qualified="false" references="true" similarDeclarations="false" stamp="1694439177862" textual="false" version="1.0"/>
+</session>
