@@ -48,12 +48,43 @@ Statements
 ***********
 conditonal :
 if-else
+sytax : 
+if(condtion)
+{
+}
+else
+{
+}
+
 switch-case
+switch(condition)
+{
+case1
+case2
+.
+.
+case n
+default
+}
+
+
 
 looping : 
-for
+for : 
+for(initialization;condition;inc/dec)
+{
+
+}
 while
+while(condition)
+{
+
+}
+
 do-while
+do
+{
+}while(condtion)
 
 
 

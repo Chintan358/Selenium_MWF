@@ -13,6 +13,7 @@ public class ScannerDemo {
 		System.out.println("name : ");
 		String name = sc.next();
 		double d = sc.nextDouble();
-		
+		System.out.println(a+b+name+d);
+		sc.close();
 	}
 }

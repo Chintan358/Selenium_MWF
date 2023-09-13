@@ -15,5 +15,7 @@ public class S005_Foreloop {
 //			System.out.println("Hello"+i);	
 //		}
 		
+		
+		
 	}
 }
