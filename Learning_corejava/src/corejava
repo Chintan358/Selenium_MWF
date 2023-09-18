@@ -87,7 +87,10 @@ do
 }while(condtion)
 
 
-
+********************************************
+Array : 
+collection of same type of data
+index ==  0 to length-1
 
 
 

@@ -12,8 +12,8 @@ public class Fibbonacci {
 		{ 
 			c = a+b;
 			System.out.print(" "+c);
-			a=b;
-			b=c;
+			a=b; //2
+			b=c;  //3
 		}
 		
 		
