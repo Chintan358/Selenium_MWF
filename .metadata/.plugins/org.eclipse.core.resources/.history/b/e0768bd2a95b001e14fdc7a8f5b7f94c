@@ -1,0 +1,31 @@
+package oops;
+
+class Product
+{
+	int price;
+	String name;
+	
+	Product(int price, String name)
+	{
+		price = price;
+		name = name;
+	}
+	
+	public void display()
+	{
+		System.out.println(price+" "+name);
+	}
+}
+
+
+public class O004_ConstructorDemo
+{
+	public static void main(String[] args)
+	{
+		Product p = new Product(50,"Pen");
+		p.display();
+		
+		Product p1 = new Product(30, "Fan");
+		p1.display();
+	}
+}
