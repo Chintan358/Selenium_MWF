@@ -93,31 +93,6 @@ collection of same type of data
 index ==  0 to length-1
 
 
-*******************************************
-oops : object orientend programming
-
-class
-object
-inheritance
-polymerphism
-abstraction
-encaptulation
-
-
-Object: real time entity
-state /variables / data memebr
-behaviour / methods / function member
--instance of class
-
-member can be of 2 types : 
-static
-non-static
-
-
-class : logical entity
--collection of datamember and function member
-
-
 
 
 
