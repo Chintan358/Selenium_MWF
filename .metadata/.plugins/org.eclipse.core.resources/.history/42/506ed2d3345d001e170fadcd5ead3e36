@@ -1,0 +1,32 @@
+package oops;
+
+class Calc
+{
+	public void print()
+	{
+		System.out.println("Runing print method");
+	}
+	
+	public void square(int a)
+	{
+		int sq  =a*a;
+		System.out.println("Square is : "+sq);
+	}
+	
+	public void add(int a, int b)
+	{
+		int result  =a+b;
+		System.out.println("Addition is : "+result);
+	}
+	
+}
+
+public class O005_MethodManipulation {
+	public static void main(String[] args) {
+		
+		Calc c = new Calc();
+		c.print();
+		c.square(10);
+		c.add(20, 30);
+	}
+}

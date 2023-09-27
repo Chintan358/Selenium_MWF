@@ -117,6 +117,13 @@ non-static
 class : logical entity
 -collection of datamember and function member
 
+*******************
+Access modifier
+
+public 
+private
+protected
+default
 
 
 

@@ -29,5 +29,7 @@ public class O001_FirstDemo {
 		
 		Pen p2 = new Pen();
 		p2.toWrite();
+		
+		
 	}
 }
