@@ -1,0 +1,14 @@
+package oops;
+
+public class O006_EncDemo {
+	public static void main(String[] args) {
+		
+		Std std = new Std();
+		std.id=10;
+		std.name="test";
+		
+		std.show();
+		
+		
+	}
+}

@@ -125,6 +125,12 @@ private
 protected
 default
 
+*******************************
+Polymorphism
+
+types : 
+compiletime / methodoveloding  -single class
+runtime / method rideing - inheritance
 
 
 

@@ -1,0 +1,12 @@
+package oops;
+
+public class Std {
+		
+	int id;
+	String name;
+	
+	public void show()
+	{
+		System.out.println(id+" "+name);
+	}
+}
